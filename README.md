@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Hanan Alhajri</h1>
+<h1 align="center">Hello! 👋, I'm Hanan</h1>
 <h3 align="center">Senior IT Student | Software Engineer in progress..</h3>
 <img align= "right" alt= "coding" src = "https://user-images.githubusercontent.com/92547643/232354168-1b661622-1fb7-45f9-bef6-86364929f568.png">
 
