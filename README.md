@@ -2,7 +2,7 @@
 <h3 align="center">Senior IT Student | Software Developer </h3>
 <img align= "right" alt= "coding" src = "https://user-images.githubusercontent.com/92547643/232354168-1b661622-1fb7-45f9-bef6-86364929f568.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> </p>
+<p align="left"> <img src="https://github.com/HananAlhajri/HananAlhajri/assets/92547643/66bf0902-7e03-42f0-b1c6-8bde967d858f" alt="hananalhajri" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Spring Security, Angular, and React Native**
 
