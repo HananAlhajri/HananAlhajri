@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Hanan</h1>
-<h3 align="center">Senior IT Student | Software Developer </h3>
+<h3 align="center">Information Technology | Software Developer </h3>
 <img align= "right" alt= "coding" src = "https://github.com/HananAlhajri/HananAlhajri/assets/92547643/66bf0902-7e03-42f0-b1c6-8bde967d858f">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> </p>
