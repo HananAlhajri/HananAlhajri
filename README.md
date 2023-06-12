@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security, Angular, and React Native**
+- 🌱 I’m currently learning **Spring Boot, Spring Security, Angular, and React **
 
 - 💬 Ask me about **Android, Java, Python, and Raspberry Pi**
 
