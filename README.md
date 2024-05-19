@@ -1,25 +1,57 @@
-<h1 align="center">Hello! 👋, I'm Hanan</h1>
-<h3 align="center">Information Technology | Software Developer </h3>
-<img align= "right" alt= "coding" src = "https://github.com/HananAlhajri/HananAlhajri/assets/92547643/66bf0902-7e03-42f0-b1c6-8bde967d858f">
+<h1 align="center">Hola, amigos!👋</h1>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> <br>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhiYXFuOTFiajl3NGpkZmtvNTV6NHNoOWhraTh0dTY5ajVsYjhvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bu85lsWhBTlWcOMN6/giphy.gif" width="200"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> </p>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/hanan-alhajri-715672222/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>  
+</div>
+<br><br>
+<div align="center">
+  
+### :woman_technologist: Little About Me :
 
-- 🌱 I’m currently learning **Spring Boot, Spring Security, Angular, and React**
+</div>
 
-- 💬 Ask me about **Android, Java, Python, and Raspberry Pi**
+<br><br>
 
-- 📫 How to reach me **Hananmalhajrii@gmail.com**
+- 🚀 Enthusiastic Software Developer! 
+- 💻 Passionate about crafting clean, efficient and reusable code
+- 🤫 Exploring tech content, reading articles, and solving _erros_
 
-<h3 align="left">Connect with me:</h3>
+<br><br><br><br>
+
+📫 Reach me out @ **Hananmalhajrii@gmail.com**
+
+### :hammer_and_wrench: Languages & Tools :
+
 <p align="left">
-<a href="https://linkedin.com/in/hanan-alhajri-715672222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanan-alhajri-715672222/" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### :fire: Stats :
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hananalhajri&show_icons=true&locale=en&layout=compact" alt="hananalhajri" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hananalhajri&show_icons=true&theme=radical&locale=en&layout=compact" alt="hananalhajri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hananalhajri&show_icons=true&locale=en" alt="hananalhajri" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hananalhajri&" alt="hananalhajri" width="420" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hananalhajri&" alt="hananalhajri" /></p>
+</div>
