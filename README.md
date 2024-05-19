@@ -9,14 +9,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
-<br><br>
+<br>
 <div align="center">
   
 ### :woman_technologist: Little About Me :
 
 </div>
 
-<br><br>
+<br>
 
 - 🚀 Enthusiastic Software Developer! 
 - 💻 Passionate about crafting clean, efficient and reusable code
