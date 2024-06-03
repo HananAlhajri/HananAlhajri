@@ -1,4 +1,4 @@
-<h1 align="center">Hola, amigos!👋</h1>
+<h1 align="center">Hola!👋</h1>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=hananalhajri&label=Profile%20views&color=0e75b6&style=flat" alt="hananalhajri" /> <br>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhiYXFuOTFiajl3NGpkZmtvNTV6NHNoOWhraTh0dTY5ajVsYjhvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3bu85lsWhBTlWcOMN6/giphy.gif" width="200"/>
